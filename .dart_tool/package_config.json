@@ -182,13 +182,13 @@
       "languageVersion": "3.0"
     },
     {
-      "name": "flutter_custom_carousel_portfolio",
+      "name": "Ravi_Portfolio",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-04-30T03:15:48.223482Z",
+  "generated": "2024-05-02T01:23:30.821892Z",
   "generator": "pub",
   "generatorVersion": "3.3.4"
 }
