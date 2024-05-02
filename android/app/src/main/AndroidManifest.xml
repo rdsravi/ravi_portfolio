@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="flutter_custom_carousel_portfolio"
+        android:label="Ravi_Portfolio"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
