@@ -185,32 +185,32 @@ class _ExampleData {
 final List<_ExampleData> _examples = [
   _ExampleData(
     id: 'cover-slider',
-    title: 'Cover Slider',
+    title: 'My Projects',
     color: const Color(0xFF4DACF7),
     builder: (_) => const CoverSliderView(),
   ),
   _ExampleData(
     id: 'circular-menu',
-    title: 'Circular Menu',
+    title: 'About me',
     color: const Color(0xFF71C51C),
     builder: (_) => const CircularMenuView(),
   ),
   _ExampleData(
     id: 'card-deck',
-    title: 'Card Deck',
+    title: 'My Skills',
     color: const Color(0xFFE79B2D),
     builder: (_) => const CardDeckView(),
   ),
   _ExampleData(
     id: 'digital-wallet',
-    title: 'Digital Wallet',
+    title: 'Services',
     color: const Color(0xFFA02BD7),
     builder: (_) => const DigitalWalletView(),
   ),
   _ExampleData(
     id: 'record-box',
-    title: 'Record Box',
-    color: const Color(0xFFD72B44),
+    title: 'Gallery',
+    color: const Color(0xFF37E785),
     builder: (_) => const RecordBoxView(),
   ),
 ];

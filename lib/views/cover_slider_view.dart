@@ -34,12 +34,12 @@ class CoverSliderView extends StatelessWidget {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                _buildLabel('Our Menu', title: true),
-                _buildLabel('Starters'),
+                _buildLabel('My Projects', title: true),
+                _buildLabel('Project 1'),
                 _buildCarouselRow('a', 6),
-                _buildLabel('Popular Entrées'),
+                _buildLabel('Project 2'),
                 _buildCarouselRow('b', 10),
-                _buildLabel('Something Sweet'),
+                _buildLabel('project 3'),
                 _buildCarouselRow('c', 6, height: 200),
               ],
             ),
